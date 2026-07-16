@@ -53,15 +53,6 @@ It helps users **track income and expenses, manage monthly budgets, and visualiz
 - Firebase cloud sync
 - Authentication flow
 
----
-
-- Premium finance dashboard design
-- Gradient balance cards
-- Glassmorphism-inspired modals
-- Responsive dark/light theme
-- Modern chip-based category selector
-- Elegant progress bars
-- Floating Add Transaction button
 
 ---
 
@@ -75,7 +66,6 @@ It helps users **track income and expenses, manage monthly budgets, and visualiz
 - Recurring transactions
 - Currency conversion
 - Biometric authentication
-
 ---
 
 ## 📸 ScreenShot
