@@ -64,10 +64,6 @@ It helps users **track income and expenses, manage monthly budgets, and visualiz
 - Recurring transactions
 - Currency conversion
 - Biometric authentication
----
-
-## 📸 ScreenShot
-
-
+  
 ---
 
