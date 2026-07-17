@@ -24,8 +24,6 @@ It helps users **track income and expenses, manage monthly budgets, and visualiz
 - **🎯 Smart Budgeting**  
   Set monthly financial goals with **live progress bars**, budget percentages, and **over-budget alerts**.
 
-- **✨ Modern UI/UX**  
-  Smooth modals, swipe actions, floating action buttons, animated cards, and polished mobile-first interactions.
 ---
 
 ## 🛠️ Tech Stack
